@@ -54,7 +54,7 @@ First run " npm start " command in command prompt to start the server and then g
 
 ## Below is the screenshot and Deployed application of the Project as per client request ## 
 
-![Screenshot of web page](./public/assets/images/image.jpg)
+![Screenshot of web page](./public/assets/images/image.JPG)
 
 ### Deployed Sites ##
 
