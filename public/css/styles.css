@@ -24,8 +24,7 @@ tr:nth-child(even) {
 
 .error {
   color: red;
-  background-color: #cec0c0;
-}
+  }
 
 .wrapper {
   margin: 0 auto;
