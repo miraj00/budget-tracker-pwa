@@ -3,7 +3,7 @@
 
 ## Description :
 ```
-Budget-tracker is a PWA (Progreesive Web Application) that allows useras to track their spending with online and offline functionality
+Budget-tracker is a PWA (Progreesive Web Application) that allows users to track their spending with online and offline functionality
 ```
 
 * The requirement from the client was as below:
